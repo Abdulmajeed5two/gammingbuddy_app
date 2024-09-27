@@ -72,6 +72,12 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 
 To learn more about React Native, take a look at the following resources:
 
+
+
+https://github.com/user-attachments/assets/7cedc708-8648-41b3-9f98-73c9cfdba928
+
+
+
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
